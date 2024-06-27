@@ -1,0 +1,33 @@
+<resources>
+    <!-- Base light theme colors -->
+    <color name="colorPrimary">#3700B3</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorOnBackground">#212121</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#212121</color>
+    <color name="colorError">#B00020</color>
+    <color name="colorOnError">#FFFFFF</color>
+
+    <!-- Base dark theme colors -->
+    <color name="colorPrimaryDark">#1E1E1E</color>
+    <color name="colorPrimaryVariantDark">#1E1E1E</color>
+    <color name="colorOnPrimaryDark">#FFFFFF</color>
+    <color name="colorSecondaryDark">#03DAC5</color>
+    <color name="colorSecondaryVariantDark">#03DAC5</color>
+    <color name="colorOnSecondaryDark">#000000</color>
+    <color name="colorBackgroundDark">#121212</color>
+    <color name="colorOnBackgroundDark">#E1E1E1</color>
+    <color name="colorSurfaceDark">#1E1E1E</color>
+    <color name="colorOnSurfaceDark">#E1E1E1</color>
+    <color name="colorErrorDark">#CF6679</color>
+    <color name="colorOnErrorDark">#000000</color>
+
+
+    <color name="selected_item">#FFCCCB</color>
+    <color name="default_item">#FFFFFF</color>
+</resources>

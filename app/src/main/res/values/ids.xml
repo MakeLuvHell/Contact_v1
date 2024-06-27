@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name_text" type="id" />
+    <item name="alt_name_text" type="id" />
+    <item name="phone_text" type="id" />
+    <item name="email_text" type="id" />
+    <item name="group_text" type="id" />
+    <item name="edit_contact_button" type="id" />
+    <item name="delete_contact_button" type="id" />
+</resources>

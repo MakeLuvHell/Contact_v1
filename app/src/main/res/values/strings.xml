@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="search_hint">Search contacts</string>
+    <string name="add_contact">Add contact</string>
+    <string name="settings">Settings</string>
+    <string name="edit_contact">Edit contact</string>
+    <string name="delete_contact">Delete contact</string>
+    <string name="save_contact">Save</string>
+    <string name="save">保存</string>
+    <string name="name">姓名</string>
+    <string name="phone">电话</string>
+    <string name="email">邮件</string>
+    <string name="group">分组</string>
+    <string name="display_as_cards">Display contacts as cards</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="add_group">Add Group</string>
+    <string name="image">image</string>
+    <string name="Search_hint">请输入姓名查询</string>
+    <string name="contact_image">Contact image</string>
+    <string name="message">消息</string>
+    <string name="call">呼叫</string>
+    <string name="video">视频</string>
+    <string name="card_view">卡片视图</string>
+    <string name="manage_group">管理分组</string>
+    <string name="export_contact">导出联系人</string>
+    <string name="import_contact">导入联系人</string>
+    <string name="multiple">多选模式</string>
+    <string name="delete">删除选中</string>
+</resources>
